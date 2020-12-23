@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "es"
+title = "El alfil matemático" 
+theme = "hugo-cards"
+paginate = 36
+
+[params]
+  author = "El alfil matemático"
+  description = "Problemas para todos"
+  email="alfilmatematico@gmail.com"
+
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+      unsafe = true
+  
