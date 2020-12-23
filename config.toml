@@ -1,4 +1,4 @@
-baseURL = "mhrosas.github.io/elalfilmatematico/"
+baseURL = "https://mhrosas.github.io/elalfilmatematico/"
 defaultContentLanguage = "es"
 title = "El alfil matemático" 
 theme = "hugo-cards"
