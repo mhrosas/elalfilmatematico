@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on El alfil matemático</title>
+    <link>https://mhrosas.github.io/elalfilmatematico/pages/</link>
+    <description>Recent content in Pages on El alfil matemático</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Dec 2020 23:32:48 +0100</lastBuildDate><atom:link href="https://mhrosas.github.io/elalfilmatematico/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>https://mhrosas.github.io/elalfilmatematico/pages/about/</link>
+      <pubDate>Thu, 10 Dec 2020 23:32:48 +0100</pubDate>
+      
+      <guid>https://mhrosas.github.io/elalfilmatematico/pages/about/</guid>
+      <description>Pequeñas colecciones de problemas de lógica y matemáticas elementales, escritos durante el periodo del confinamiento de la primavera de 2020.
+Los niveles Hay cuatro niveles. Por orden creciente de dificultad:
+ ♙ peón ♘ caballo ♗ alfil ♖ torre  </description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://mhrosas.github.io/elalfilmatematico/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhrosas.github.io/elalfilmatematico/pages/contact/</guid>
+      <description>Es Mercedes Rosas quien le da vida al alfil.</description>
+    </item>
+    
+  </channel>
+</rss>
